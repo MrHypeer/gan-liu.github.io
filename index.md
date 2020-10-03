@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gan LIU's website
 
 You can use the [editor on GitHub](https://github.com/MrHypeer/gan-liu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
